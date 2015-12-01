@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PmdmImagen</string>
+    <string name="buscar">Buscar Imagen</string>
+    <string name="grises">Escala de grises</string>
+    <string name="saturar">Saturar</string>
+    <string name="original">Original</string>
+    <string name="rota">Rotar</string>
+    <string name="guardar">Guardar</string>
+</resources>
